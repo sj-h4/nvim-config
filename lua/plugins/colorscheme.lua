@@ -4,6 +4,7 @@ return {
     name = "rose-pine",
     opts = {
       variant = "dawn",
+      styles = { transparency = true },
     },
   },
   {
