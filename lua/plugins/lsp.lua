@@ -1,0 +1,21 @@
+return {
+  -- {
+  --   "neovim/nvim-lspconfig",
+  --   opts = {
+  --     servers = {
+  --       pyright = {
+  --         settings = {
+  --           pyright = {
+  --             disableLanguageServices = true,
+  --           },
+  --           python = {
+  --             analysis = {
+  --               ignore = { "*" },
+  --             },
+  --           },
+  --         },
+  --       },
+  --     },
+  --   },
+  -- },
+}
